@@ -1,11 +1,11 @@
 ## Name_Search_Socket
-###Youngho Kim 
+Youngho Kim 
 
-###If port error or server error occurs, please change the port number to a 4-digit number.
+If port error or server error occurs, please change the port number to a 4-digit number.
 > e.g) 4567, 5555, 9999, and etc
 
 
-###How to use:
+How to use:
 
 1. Run socket_server.py file 
  > -it will print out the following statement: "Waiting for a connection, Server Started"
